@@ -1,3 +1,5 @@
+import Newsletter from "./components/Newsletter"
+
 ## Discord
 
 Come hang out with us on Discord. We chat about the scripts, tools, snippets, etc that we're building.
@@ -6,9 +8,8 @@ Come hang out with us on Discord. We chat about the scripts, tools, snippets, et
 
 ## Newsletter
 
-Sign-up below to receive these tips weekly in your mailbox!
-
-<script async data-uid="05e7fff1b6" src="https://johnlindquist.ck.page/05e7fff1b6/index.js" id="convertkit"></script>
+Sign-up below to receive automation recipes weekly in your mailbox!
+<Newsletter/>
 
 ## Topics
 
