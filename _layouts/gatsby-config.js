@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Foam`,
+    title: `🍅 automatoes.com`,
   },
   plugins: [
     {
