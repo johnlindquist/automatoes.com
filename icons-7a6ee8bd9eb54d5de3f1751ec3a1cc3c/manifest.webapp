@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "automatoes.com",
+  "description": null,
+  "icons": {
+    "60": "/icons-7a6ee8bd9eb54d5de3f1751ec3a1cc3c/firefox_app_60x60.png",
+    "128": "/icons-7a6ee8bd9eb54d5de3f1751ec3a1cc3c/firefox_app_128x128.png",
+    "512": "/icons-7a6ee8bd9eb54d5de3f1751ec3a1cc3c/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": null,
+    "url": null
+  }
+}
