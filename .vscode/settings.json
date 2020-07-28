@@ -10,6 +10,6 @@
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",
   "files.associations": {
-    "*.md": "mdx"
+    "*.js": "javascriptreact"
   }
 }
