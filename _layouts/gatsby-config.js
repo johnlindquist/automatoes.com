@@ -4,6 +4,16 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: `gatsby-transformer-rehype`,
+      options: {
+        plugins: [
+          {
+            resolve: `gatsby-rehype-prismjs`,
+          },
+        ],
+      },
+    },
+    {
       resolve: `gatsby-theme-garden`,
       options: {
         rootNote: "/index",

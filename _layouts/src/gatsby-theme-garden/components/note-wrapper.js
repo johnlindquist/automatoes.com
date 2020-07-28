@@ -1,9 +1,12 @@
 import React from "react"
+import { useEffect } from "react"
 import {
   LinkToStacked,
   PageIndexProvider,
   useStackedPage,
 } from "react-stacked-pages-hook"
+
+import Prism from "prismjs"
 
 import "./note-wrapper.css"
 
@@ -21,6 +24,10 @@ function noteContainerClassName({
 
 const NoteWrapper = ({ children, slug, title }) => {
   const [, state, i] = useStackedPage()
+
+  useEffect(() => {
+    Prism.highlightAll()
+  }, [])
 
   return (
     <div
