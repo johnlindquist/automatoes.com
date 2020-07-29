@@ -23,6 +23,7 @@ Sign-up below to receive automation recipes weekly in your mailbox! 👋
 
 - [[John Lindquist]]
 - [[Trevor Brindle]]
+- [[swyx]]
 
 ## How to Contribute?
 
@@ -51,6 +52,7 @@ This site runs on [[Foam]] and [[Gatsby]]. It is build by [[Github Actions]] and
 [Video]: video "Video"
 [John Lindquist]: john-lindquist "John Lindquist"
 [Trevor Brindle]: trevor-brindle "Trevor Brindle"
+[swyx]: swyx "Swyx"
 [Foam]: foam "Foam"
 [Gatsby]: gatsby "Gatsby"
 [Github Actions]: github-actions "Github Actions"
