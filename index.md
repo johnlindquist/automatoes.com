@@ -17,8 +17,6 @@ Sign-up below to receive automation recipes weekly in your mailbox!
 - [[Code]]
 - [[Internet]]
 - [[Keyboard]]
-- [[Music]]
-- [[Operating System]]
 - [[Terminal]]
 - [[Typing]]
 - [[Video]]
@@ -51,8 +49,6 @@ This site runs on [Foam](https://github.com/foambubble/foam) and [Gatsby](https:
 [Code]: code "Code"
 [Internet]: internet "Internet"
 [Keyboard]: keyboard "Keyboard"
-[Music]: music "Music"
-[Operating System]: operating-system "Operating System"
 [Terminal]: terminal "Terminal"
 [Typing]: typing "Typing"
 [Video]: video "Video"
