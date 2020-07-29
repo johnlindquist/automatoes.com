@@ -23,7 +23,7 @@ Sign-up below to receive automation recipes weekly in your mailbox!
 - [[Typing]]
 - [[Video]]
 
-## Profiles
+## Contributors
 
 - [[John Lindquist]]
 
