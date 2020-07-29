@@ -50,6 +50,7 @@ This site runs on [[Foam]] and [[Gatsby]]. It is build by [[Github Actions]] and
 [Typing]: typing "Typing"
 [Video]: video "Video"
 [John Lindquist]: john-lindquist "John Lindquist"
+[Trevor Brindle]: trevor-brindle "Trevor Brindle"
 [Foam]: foam "Foam"
 [Gatsby]: gatsby "Gatsby"
 [Github Actions]: github-actions "Github Actions"
