@@ -4,7 +4,7 @@ import Newsletter from "./\_layouts/components/Newsletter"
 
 Come hang out with us on Discord. We chat about the scripts, tools, snippets, etc that we're building.
 
-[Join our Discord](https://discord.gg/ma8Dq4)
+[Join our Discord](https://discord.gg/JvxUSw)
 
 ## Newsletter
 
