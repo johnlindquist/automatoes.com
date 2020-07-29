@@ -35,16 +35,15 @@ const NoteWrapper = ({ children, slug, title }) => {
       style={{ left: 40 * (i || 0), right: -585 }}
     >
       <div className="note-content">
+        {children}
         <a
           rel="noreferrer"
           target="_blank"
           className="note-edit"
-          href={`https://github.com/johnlindquist/automatoes.com/edit/master/${slug}.md`}
+          href={`https://github.com/johnlindquist/automatoes.com/edit/master${slug}.md`}
         >
           edit
         </a>
-
-        {children}
       </div>
 
       <LinkToStacked to={slug} className="obstructed-label">
