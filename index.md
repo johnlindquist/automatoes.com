@@ -22,6 +22,7 @@ Sign-up below to receive automation recipes weekly in your mailbox! 👋
 ## Contributors
 
 - [[John Lindquist]]
+- [[Trevor Brindle]]
 
 ## How to Contribute?
 
