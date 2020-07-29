@@ -1,6 +1,6 @@
 # Use Keys as Mouse Buttons When Using a Trackpad
 
-With the [karabiner multitouch extension](https://karabiner-elements.pqrs.org/docs/manual/misc/multitouch-extension/), your finger are detected on the trackpad and your keyboard keys can be used as button clicks.
+With the [karabiner multitouch extension](https://karabiner-elements.pqrs.org/docs/manual/misc/multitouch-extension/), your fingers are detected on the trackpad and your keyboard keys can be used as button clicks.
 
 For example:
 
@@ -9,6 +9,7 @@ For example:
   - "d" key triggers a "shift left click"
 - while 2 fingers on the trackpad
   - "f" key triggers a "right click"
+  - "v" key "left clicks" then pastes the clipboard content
 
 ```clojure
 {:des "multitouch"
@@ -18,6 +19,7 @@ For example:
             [:d {:pkey :button1 :modi :left_shift}]
         [:condi ["multitouch_extension_finger_count_total" 2]]
             [:f :button2]
+            [:v [:button1 :!Cv]]
 ```
 
 Tags:
