@@ -1,4 +1,4 @@
-# Change terminal directory to the current Finder directory
+# Change Terminal Directory to the Current Finder Directory
 
 It's easy to open a folder in Finder from the shell, but what about the other way around?
 This is a function that works in bash/zsh (I haven't tried in other shells) to change to the current open directory in front Finder window.
