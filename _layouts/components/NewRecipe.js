@@ -5,8 +5,7 @@ import { auth, currentUser } from "./oneGraphHelpers"
 const LoginButton = ({ auth, service, isLoggedIn, onUpdated }) => {
   return (
     <button
-      key={service.slug}
-      className="card w-64 m-4"
+      key={service}
       onClick={async () => {
         await auth.login(service)
         onUpdated(auth)
