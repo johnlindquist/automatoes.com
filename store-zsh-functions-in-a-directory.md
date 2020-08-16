@@ -1,6 +1,6 @@
 # Store Zsh Functions in a Directory
 
-1. Create a `~/.zshrc` Directory
+1. Create a `~/.zfunc` Directory
 2. In your `.zshrc`, add the following block to the top:
 
 ```bash
