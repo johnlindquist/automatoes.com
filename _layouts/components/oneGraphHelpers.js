@@ -1,6 +1,6 @@
 import OneGraphAuth from "onegraph-auth"
 
-export const ONE_GRAPH_APP_ID = "73a2441e-9638-496b-bf0b-b26c8c66720b"
+export const ONE_GRAPH_APP_ID = "961b2d5a-83e1-4835-b5b9-c10e983efde6"
 let isSsr = false
 
 if (typeof window === "undefined") {
