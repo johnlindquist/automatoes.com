@@ -13,10 +13,12 @@
     "gatsby-theme-garden": "^0.1.28",
     "gatsby-transformer-rehype": "^1.8.0",
     "gatsby-transformer-remark": "^2.8.27",
+    "onegraph-auth": "^2.2.4",
     "prism-theme-night-owl": "^1.4.0",
     "prismjs": "^1.20.0",
     "react": "^16.3.1",
-    "react-dom": "^16.3.1"
+    "react-dom": "^16.3.1",
+    "react-onegraph": "^2.2.4"
   },
   "keywords": [
     "foam"
